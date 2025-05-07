@@ -9,7 +9,7 @@ Es un estilo que mezcla lo contemporaneo con lo clásico. ¡Los flecos, el croch
 - Botas texanas
 - Paleta cálida: Tonos tierra, beige, oliva
 
-![Image](/images/boho_chic.jpg)
+![Image](boho_chic.jpg)
 
 # Y2K revival
 ## **La vuelta de la moda de los 2000**
@@ -19,7 +19,7 @@ Es un estilo que mezcla lo contemporaneo con lo clásico. ¡Los flecos, el croch
 - Muchos accesorios: cinturones con hebillas grandes, anteojos, carteras
 - Colores brillantes, telas metálicas, estampados
 
-![Image](/images/y2k.webp)
+![Image](y2k.webp)
 
 Más información:
 - [Y2K Fashion](https://www.vogue.com/article/y2k-fashion)
@@ -34,7 +34,7 @@ Esta moda combina prendas deportivas con vestimenta más elegante/casual.
 - Zapatillas deportivas 
 - Leggins deportivos / pollera de tenis / short deportivos
 
-![Image](/images/athleisure.jpg)
+![Image](athleisure.jpg)
 
 Inspo: 
 - [Último en tendencia](https://www.cosmopolitan.com/es/moda/novedades-moda/g63950565/estilo-athleisure-tendencia-looks-primavera-2025/)
@@ -48,6 +48,6 @@ Este movimiento va más allá de la ropa. Se relaciona al minismilismo, enfatiza
 - Prendas clásicas 
 
 Una de las representantes de esta moda es Hailey Bieber: 
-![Image](/images/clean_girl.avif)
+![Image](clean_girl.avif)
 
 Para más información de esta tendencia: [Link](https://www.vogue.co.uk/article/clean-girl-aesthetic-trend)
