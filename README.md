@@ -1,50 +1,21 @@
-# La Moda y su Influencia en las Redes Sociales
+**Deben juntarse en grupos de 3 alumnos.**
 
-La moda siempre ha sido una forma de expresion, pero con la llegada de las redes sociales, se ha convertido en un fenomeno global. Hoy, Instagram, TikTok y Pinterest marcan tendencias incluso mas que las pasarelas tradicionales.
+Un alumno del grupo debe crear un repositorio público en su cuenta Github llamado `MarkdownGuideBookProject`.
 
-## Influencers y Estilo
+Todos los alumnos tienen que clonar ese repositorio en su computadora (no es necesario hacer un "fork" del repositorio).
 
-Los influencers juegan un papel fundamental: personas comunes pueden transformarse en referentes de estilo con solo un celular y una buena capacidad para crear contenido visual atractivo.
+El objetivo del trabajo práctico es armar una guía/libro/documentación del tema que el grupo quiera. La guía tiene que tener una sección por individuo, por ejemplo:
 
-- Marcan tendencias con sus outfits diarios.
-- Promocionan marcas mediante colaboraciones.
+- Se elige el tema Habilidades esenciales para vivir, en un grupo de 3 personas, habrán 3 secciones: Cocinar, Finanzas y Salud. Cada integrante del equipo elige una sección y tiene que crear un archivo markdown narrando sobre el tema de la sección. Cada uno tiene que trabajar en una branch diferente al resto, con un nombre que identifique la sección en la que esta trabajando. (por ejemplo, cooking, finance o health).
 
-[Ver perfil de Sofia Gonet](https://www.instagram.com/sofiagonet?igsh=dWpuc2NsbjE1d2o3)
+Cada archivo de markdown tendrá que tener por lo menos 4 títulos principales (Heading1), 2 listas, 5 links y 4 imágenes o gifs. Las imágenes/gifs tienen que subirse también al repositorio.
 
+Realicen los commits que crean necesarios usando descripciones apropiadas para los mensajes de los commits. Hagan el push a las branches del repositorio que tenían asignados (Cada uno a su repositorio).
 
-## Rol de TikTok
+Ahí termina la parte individual del trabajo práctico, la siguiente parte necesitan realizarla todos juntos.
 
-TikTok ha revolucionado la manera en que se viralizan las modas. Desde prendas especificas hasta esteticas completas (como "Y2K", "coquette", "old money", "clean girl" o "e-girl"), todo puede popularizarse en segundos.
+Una vez que todas las secciones estén terminadas, tienen que realizar un Pull Request que trate de unificar los cambios de cada sección en main. Habrá un pull request por cada branch de sección.
 
-- Crea retos de moda (fashion challenges).
-- Viraliza microtendencias con musica y edicion.
+Antes de unir los cambios, cada alumno deberá revisar el Pull Request de otra sección ajena a la suya, intentando unificar la manera de escribir, donde se guardan las imágenes (si usan una carpeta, que tengan un nombre apropiado, etc) y cualquier otra cosa relacionada a la calidad que crea pertinente. Una vez que cada sección esté ok, quien inició el pull request tiene que integrar los cambios (Merge a Main).
 
-[Descubri una de las ultimas tendencias en TikTok](https://vm.tiktok.com/ZMBEXGwW4/)
-
-
-## Moda Rapida y Consumo
-
-El deseo constante de "estar a la moda" impulsa el consumo de ropa barata y de corta duracion, fenomeno conocido como fast fashion.
-
-- Aumentan las compras impulsivas motivadas por las tendencias virales.
-- Se generan grandes cantidades de desechos textiles y contaminacion.
-
-[Articulo sobre fast fashion](https://cnnespanol.cnn.com/2023/11/25/que-es-fast-fashion-moda-rapida-trax)
-
-
-## Estetica y Algoritmo
-
-Las redes sociales favorecen el contenido visualmente atractivo. Cuanto mas estetico, cuidado y coherente sea el estilo de una publicacion, mas probabilidades tiene de viralizarse. Esta logica algoritmica tambien impacta en la forma en que las personas eligen vestirse.
-
-- Los colores y estilos "de moda" se replican en miles de perfiles.
-- Muchos looks se piensan unicamente para la foto, no para la vida cotidiana.
-
-[Como el algoritmo afecta la moda](https://www.infobae.com/opinion/2024/01/26/los-algoritmos-en-las-pasarelas-de-la-moda/) 
-
-![Image](./image-1.png)
-
-##Feed de Instagram que impone moda
-
-![Image](./image.png) 
-
-![Image](./721ab95c018df94581e7ba3bb439427a.jpg)
+Una vez "mergeados" los cambios, se debe agregar un archivo de carátula e índice de la guía o libro (en un archivo markdown) llamado README.md . Tendrá el Título de la guia, los nombres de los integrantes en orden alfabético y links a cada una de las secciones.
