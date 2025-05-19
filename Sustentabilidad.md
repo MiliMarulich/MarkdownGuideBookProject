@@ -11,10 +11,10 @@ Este sistema permite que las **tendencias** cambien rápidamente y que las prend
 - Producción masiva y rápida de prendas. 
 - Diseños copiados y plagios→ pasarelas y grandes marcas.
 - Costos bajos para el consumidor→ altos para el planeta. 
-![Consumismo y tendencias](consumerism.jpg)
+![Explotation](Imagenes/explotation.jpeg)
 
 *PROBLEMA*: este modelo **exige grandes cantidades de recursos naturales**, genera residuos textiles y **explotación laboral** en países en vías de desarrollo. Como **Vietnam, China, India, Filipinas.**
-![Explotación de trabajadores](explotation.jpeg)
+![Contamination](Imagenes/contamination.jpg)
 
 ## Impacto ambiental y social 
 
