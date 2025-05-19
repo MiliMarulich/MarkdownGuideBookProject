@@ -2,7 +2,7 @@
 ## ¿Qué es la moda rápida?
 
 La **moda rápida**, o mejor conocida como *fast fashion*, es un modelo de producción y consumo que se basa en la creación de ropa barata, de baja calidad y en grandes cantidades. 
-![Moda rápida](1.jpeg)
+![Consumerism](Imagenes/consumerism.jpg)
 
 Este sistema permite que las **tendencias** cambien rápidamente y que las prendas se descarten con la misma velocidad.
 
