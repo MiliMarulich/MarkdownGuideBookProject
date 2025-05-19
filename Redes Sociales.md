@@ -45,9 +45,9 @@ Las redes sociales favorecen el contenido visualmente atractivo. Cuanto mas este
 
 ##Feed de Instagram que impone moda
 
-![Image](image.png) 
+![Feed_ig1](Imagenes/feed_ig.png)
 
-![Image](721ab95c018df94581e7ba3bb439427a.jpg)
+![Feed_ig2](Imagenes/feed_ig2.jpg)
 
 
 
