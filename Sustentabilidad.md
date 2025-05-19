@@ -55,4 +55,4 @@ Busca crear un equilibrio entre el estilo, la ética y el medioambiente. Algunas
 - Ecoalf
 - Nudie Jeans 
 
-![Patagonia](patagonia.jpg)
+![Cuidado](Imagenes/cuidado.jpg)
