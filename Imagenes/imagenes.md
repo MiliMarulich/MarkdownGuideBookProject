@@ -1,0 +1,11 @@
+![Boho_chic](Imagenes/boho_chic.jpg)
+![Clean_girl](Imagenes/clean_girl.avif)
+![Consumerism](Imagenes/consumerism.jpg)
+![Contamination](Imagenes/contamination.jpg)
+![Cuidado](Imagenes/cuidado.jpg)
+![Estetica_algoritmo](Imagenes/estetica_algoritmo.png)
+![Explotation](Imagenes/explotation.jpeg)
+![Fast_fashion](Imagenes/fast_fashion.jpeg)
+![Feed_ig1](Imagenes/feed_ig.png)
+![Feed_ig2](Imagenes/feed_ig2.jpg)
+!
