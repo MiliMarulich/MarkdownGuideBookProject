@@ -41,7 +41,7 @@ Las redes sociales favorecen el contenido visualmente atractivo. Cuanto mas este
 
 [Como el algoritmo afecta la moda](https://www.infobae.com/opinion/2024/01/26/los-algoritmos-en-las-pasarelas-de-la-moda/) 
 
-![Image](image-1.png)
+![Estetica_algoritmo](Imagenes/estetica_algoritmo.png)
 
 ##Feed de Instagram que impone moda
 
