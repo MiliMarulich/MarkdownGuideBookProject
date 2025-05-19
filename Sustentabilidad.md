@@ -11,10 +11,10 @@ Este sistema permite que las **tendencias** cambien rápidamente y que las prend
 - Producción masiva y rápida de prendas. 
 - Diseños copiados y plagios→ pasarelas y grandes marcas.
 - Costos bajos para el consumidor→ altos para el planeta. 
-![Explotation](Imagenes/explotation.jpeg)
+
 
 *PROBLEMA*: este modelo **exige grandes cantidades de recursos naturales**, genera residuos textiles y **explotación laboral** en países en vías de desarrollo. Como **Vietnam, China, India, Filipinas.**
-![Contamination](Imagenes/contamination.jpg)
+![Explotation](Imagenes/explotation.jpeg)
 
 ## Impacto ambiental y social 
 
@@ -40,7 +40,7 @@ Busca crear un equilibrio entre el estilo, la ética y el medioambiente. Algunas
 - Ropa duradera, atemporal y de mejor calidad. 
 - Promoción del consumo consciente
 
-![Moda sostenible](sustainable.jpg)
+![Sustainable](Imagenes/sustainable.jpg)
 ## ✅ ¿Qué podes hacer vos?
 
 - Elegir prendas de calidad por sobre cantidad y precio. Permite extender la vida útil de la prenda.
