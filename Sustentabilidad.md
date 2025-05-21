@@ -29,7 +29,7 @@ Este sistema permite que las **tendencias** cambien rápidamente y que las prend
 - Zara
 - H & M 
 
-![Contaminación](contamination.jpg)
+![Contamination](Imagenes/contamination.jpg)
 
 ## 👗 La moda sostenible 
 
